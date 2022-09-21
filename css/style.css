@@ -1,0 +1,25 @@
+
+.encabezado
+ {
+color:white;
+float: right;
+text-align: end;
+position: absolute;
+right: 10%;
+top: 25%;
+width: 400px;
+}
+#formulario{
+    width: 70%;
+}
+.codo
+{
+    width: 5%;
+}
+
+.tarjetas
+{
+display: flex;
+justify-content: space-around;
+
+}

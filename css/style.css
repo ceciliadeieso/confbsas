@@ -23,3 +23,12 @@ display: flex;
 justify-content: space-around;
 
 }
+
+/* aca arranca el estilo de ticket*/
+#cartas
+{
+display: flex;
+justify-content: space-around;
+margin-top: 7%;
+
+}
